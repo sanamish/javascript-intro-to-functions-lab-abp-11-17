@@ -21,11 +21,3 @@ if (string.lowercase){
 } else if (string = 'I love you, Grandma.') {
   return "I love you, too."
 }}
-
-  //var sayHiToGrandma = function
-  //sayHiToGrandma.toLowerCase() === lowercase
-    //return "I can`t hear you!"}
-  //else if (string.UpperCase) {
-    //return "YES INDEED!"}
-  //else if ('I love you, Grandma'){
-    //return "I love you, too.""
